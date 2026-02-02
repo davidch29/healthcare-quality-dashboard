@@ -31,6 +31,14 @@ All data sourced from [CMS Provider Data Catalog](https://data.cms.gov/):
 4. **44% of hospitals exceed benchmark**: 2,375 of 5,421 hospitals have readmission ratios above 1.0
 5. **Hip/Knee replacement** has the highest average readmission ratio among the six tracked conditions
 
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](/executive_summary.png)
+
+### Patient Satisfaction Analysis
+![Patient Satisfaction Analysis](/patient_satisfaction_analysis.png)
+
 ## Technical Details
 
 **Tools Used:**
