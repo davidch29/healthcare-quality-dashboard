@@ -82,4 +82,4 @@ Total Survey Responses = SUM(Patient_Satisfaction[Number of Completed Surveys])
 ## Author
 
 **David Chirino**  
-Data Analyst | Tampa, FL  
+Data Analyst | Omaha, NE 
